@@ -1,11 +1,11 @@
 <div align="center">
 
-# Celebal Customer Churn Prediction Project 📊
+# Celebal Customer Churn Prediction Project 
 
 ### An End-to-End Machine Learning Project with a Deployed Streamlit Web Application
 
-![App Demo GIF](https://i.imgur.com/your-app-demo.gif)
-*(Yahan apne app ka ek chhota sa GIF ya screenshot daal sakte ho)*
+<img width="1918" height="917" alt="image" src="https://github.com/user-attachments/assets/24464af2-9968-4225-ae07-64b55511c752" />
+
 
 </div>
 
@@ -43,7 +43,7 @@ This project leverages a variety of modern data science and web development tool
 
 ---
 
-##  workflow
+##  Workflow
 
 The project follows a structured end-to-end machine learning pipeline:
 
@@ -79,7 +79,7 @@ Follow these steps to set up and run the application on your own machine.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [YOUR_GITHUB_REPO_LINK]
+    git clone [[YOUR_GITHUB_REPO_LINK](https://github.com/Divyansh-debug/Celebal-Customer-Churn-Prediction-Project.git)]
     cd Customer-Churn-Prediction-App
     ```
 
@@ -103,3 +103,24 @@ Follow these steps to set up and run the application on your own machine.
 ---
 
 ## 📂 Repository Structure
+├── app.py                  # Main Streamlit application script
+├── churn_model.joblib      # Trained XGBoost model
+├── scaler.joblib           # Scikit-learn scaler object
+├── train_columns.joblib    # List of training columns
+├── requirements.txt        # Required Python libraries
+├── Churn_Celebal_Trial_new.ipynb # Jupyter Notebook with full analysis
+├── WA_Fn-UseC_-Telco-Customer-Churn.csv # The dataset
+└── README.md               # This file
+
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
+
+---
+
+<div align="center">
+  <i>Made with ❤️ and a lot of Python!</i>
+</div>
