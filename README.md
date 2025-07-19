@@ -79,7 +79,7 @@ Follow these steps to set up and run the application on your own machine.
 1.  **Clone the Repository:**
     ```bash
     git clone https://github.com/Divyansh-debug/Celebal-Customer-Churn-Prediction-Project.git
-    cd Customer-Churn-Prediction-App
+    cd Celebal-Customer-Churn-Prediction-Project
     ```
 
 2.  **Create a Virtual Environment (Recommended):**
