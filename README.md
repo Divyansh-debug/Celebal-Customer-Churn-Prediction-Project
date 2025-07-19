@@ -15,8 +15,7 @@
 
 Experience the live prediction model here:
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([[YOUR_STREAMLIT_APP_LINK](https://celebal-customer-churn-prediction-project-arrugyh5kzfzapfhcxqk.streamlit.app/)])
-
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://celebal-customer-churn-prediction-project-arrugyh5kzfzapfhcxqk.streamlit.app/)
 ---
 
 ## 🎯 Project Goal
@@ -79,7 +78,7 @@ Follow these steps to set up and run the application on your own machine.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [[YOUR_GITHUB_REPO_LINK](https://github.com/Divyansh-debug/Celebal-Customer-Churn-Prediction-Project.git)]
+    git clone https://github.com/Divyansh-debug/Celebal-Customer-Churn-Prediction-Project.git
     cd Customer-Churn-Prediction-App
     ```
 
@@ -103,15 +102,17 @@ Follow these steps to set up and run the application on your own machine.
 ---
 
 ## 📂 Repository Structure
-├── app.py                  # Main Streamlit application script
-├── churn_model.joblib      # Trained XGBoost model
-├── scaler.joblib           # Scikit-learn scaler object
-├── train_columns.joblib    # List of training columns
-├── requirements.txt        # Required Python libraries
-├── Churn_Celebal_Trial_new.ipynb # Jupyter Notebook with full analysis
-├── WA_Fn-UseC_-Telco-Customer-Churn.csv # The dataset
-└── README.md               # This file
 
+```
+├── 📄 app.py                  # Main Streamlit application script
+├── 🧠 churn_model.joblib      # Trained XGBoost model
+├── ⚖️ scaler.joblib           # Scikit-learn scaler object
+├── 📊 train_columns.joblib    # List of training columns
+├── 📝 requirements.txt        # Required Python libraries
+├── 📓 Churn_Celebal_Trial_new.ipynb # Jupyter Notebook with full analysis
+├── 💾 WA_Fn-UseC_-Telco-Customer-Churn.csv # The dataset
+└── 📖 README.md               # This file
+```
 
 ---
 
